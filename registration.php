@@ -4,7 +4,7 @@
 
     \Magento\Framework\Component\ComponentRegistrar::THEME,
 
-    'frontend/familygroup/luma_child',
+    'frontend/Familygroup/luma_child',
 
     __DIR__
 );
